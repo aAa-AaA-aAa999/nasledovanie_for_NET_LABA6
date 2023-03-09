@@ -9,10 +9,6 @@ namespace Laba6
             public string NameAnimal;
             public string food;
             public string location;
-            public string setFood()
-            {
-                return food;
-            }
 
             public Animal(string NameAnimal, string food, string location) //конструктор
             {
